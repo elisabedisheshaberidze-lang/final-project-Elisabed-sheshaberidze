@@ -1,15 +1,14 @@
-Final Project - Elisabed Sheshaberidze
-This is my very first web development project! I completed a 3-month HTML/CSS course three years ago, and this project is my first attempt at applying what I learned.  
-The project includes basic HTML structure and CSS styling to create a simple web page.  
+Final Project – Elisabed Sheshaberidze
 
-Features
-- HTML page structure with headings, paragraphs, and lists
-- Basic CSS styling including colors, fonts, and layout
-- Simple responsive design (optional)
+This is my first web development project! I learned HTML and CSS in a 3-month course three years ago, and this project is my first real attempt to use what I learned.
+
+What I Did
+Made a webpage with headings, paragraphs, and lists
+Styled it with colors, fonts, and layout
+Added simple responsive design for smaller screens
+Added hover effects for buttons and cards
 
 Notes
-- This project was forked from my other GitHub account.
-- Since this is my first project, it’s a learning experience and there might be improvements I can make in the future.
-
-
-
+This project is a learning experience, so it’s not perfect
+Images must be in the images folder to display correctly
+I learned a lot about HTML structure, CSS layout, and making pages responsive
